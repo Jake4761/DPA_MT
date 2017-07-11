@@ -1,0 +1,14 @@
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.ResolveComReference.cache
+C:\Users\jake\Desktop\xD\DPA_MT\bin\Debug\DPA_MT.exe
+C:\Users\jake\Desktop\xD\DPA_MT\bin\Debug\DPA_MT.pdb
+C:\Users\jake\Desktop\xD\DPA_MT\bin\Debug\DPA_MT.xml
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.Form1.resources
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.Form2.resources
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.Menu.resources
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.Resources.resources
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.GenerateResource.Cache
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.exe
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.xml
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.pdb
+C:\Users\jake\Desktop\xD\DPA_MT\obj\x86\Debug\DPA_MT.Form3.resources
